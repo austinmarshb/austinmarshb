@@ -4,9 +4,9 @@ Thanks for stopping by! Here is some stuff about me.
 
 - 🦞 I currently live in Portland, Maine. It's where I'm originally from, but I've also lived in Boston Massachusetts, Denver Colorado, and Portland Oregon!
 
-- 🏠 I'm willing to relocate *almost* anywhere if it means I get to secure a path as a full time developer!
+- 🏠 I'm willing to relocate *almost* anywhere if it means I get to secure a path as a full time developer! I'm happy with in office, hybrid or remote positions.
 
-- 🛠️ I've held a lot of interesting jobs in my life, including being an EMT, a bicycle mechanic, a CDL truck driver, a crane operator, a VoIP tech, and an eLearning developer! Suddenly I feel old...
+- 🛠️ I've held a lot of interesting jobs in my life, including being an EMT, a bicycle mechanic, a CDL-A truck driver, a hydraulic knuckle boom crane operator, a VoIP tech, and an eLearning developer! Suddenly I feel old...
 
 - 🔭 I’m currently working on finishing my Bachelor of Science in Software Engineering.
   
