@@ -14,3 +14,4 @@ Thanks for stopping by! Here is some stuff about me.
 
 - ⚡ Fun fact: My coding journey began with making a video game called, "The Adventures of Sullivan", it was my second coding project ever.
 [https://store.steampowered.com/app/1124430/The_Adventures_of_Sullivan/](url)
+It took me two years and I was really happy to fulfill a lifelong dream of making my own video game. It's what inspired me to pursue a degree and work in programming.
